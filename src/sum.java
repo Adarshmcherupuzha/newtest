@@ -17,5 +17,6 @@ public class sum {
         // Display the result
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + result);
         System.out.println("Thanks!!!");
+        System.out.println("come again!!!");
     }
 }
